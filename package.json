@@ -1,5 +1,5 @@
 {
-  "name": "parse-server",
+  "name": "parse-server-baktun",
   "version": "2.2.26",
   "description": "An express module providing a Parse-compatible API server",
   "main": "lib/index.js",
